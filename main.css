@@ -1,0 +1,25 @@
+.container {
+  background-color: FFFFFF;
+}
+
+.element {
+  clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 75% 75%, 75% 100%, 50% 75%, 0% 75%);
+  position: static;
+  padding: 50px;
+  width: 150px;
+  height: 150px;
+  }
+
+#quote {
+  font-family: 'Chango', cursive;
+  font-size: 55px;
+  color: orange;
+  padding: 50px 0px 0px 50px;
+}
+
+#author {
+  font-family: 'Chango', cursive;
+  font-size: 20px;
+  color: orange;
+  padding: 0 0 0 0;
+}
